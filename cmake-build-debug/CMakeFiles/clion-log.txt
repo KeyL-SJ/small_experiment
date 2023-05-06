@@ -1,0 +1,12 @@
+"E:\Clion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Clion 2022.2/bin/ninja/win/ninja.exe" -G Ninja -S "E:\Visual Studio\project\贪吃蛇游戏" -B "E:\Visual Studio\project\贪吃蛇游戏\cmake-build-debug"
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "̰����/Demo1.cpp" is reserved or not valid for
+  certain CMake features, such as generator expressions, and may result in
+  undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
